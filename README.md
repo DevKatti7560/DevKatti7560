@@ -100,12 +100,14 @@
 
 ## 🏆 Certifications
 
-- 🎖 NPTEL Elite – Exploratory Data Analysis with R
-- ☁ Azure Cloud AI & Serverless Bootcamp
-- 🤖 Generative AI with AWS
-- 🐍 Machine Learning with Python (Udemy)
-- 📊 R Programming – IIT Bombay Spoken Tutorial
-
+| Certification | Organization |
+|---------------|--------------|
+| 🥇 NPTEL Elite – Exploratory Data Analysis for Data Science with R | IIT Kanpur (NPTEL) |
+| 🤖 Generative AI with AWS | Analytics Vidhya |
+| ☁ Azure Cloud, AI & Serverless Bootcamp | SwipeGen |
+| 🐍 Learn Machine Learning with Python A to Z | Udemy |
+| 📊 R Programming | Spoken Tutorial – IIT Bombay |
+| 🌱 Energy Literacy Training | Energy Swaraj Foundation |
 ---
 
 ## 📊 GitHub Statistics
