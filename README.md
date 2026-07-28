@@ -1,22 +1,37 @@
+<h1 align="center">Hi 👋, I'm Devaraja Katti</h1>
+
+<h3 align="center">
+AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineering+Student;Full+Stack+MERN+Developer;Machine+Learning+Enthusiast;Building+Real-World+Projects;Open+to+Internship+Opportunities"/>
+</p>
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/MERN-Full%20Stack-success?style=for-the-badge"/>
+<a href="mailto:devarajakattigumagera@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react"/>
+<a href="https://www.linkedin.com/in/devaraja-katti-58136a2a1">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js"/>
-
-<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb"/>
-
-<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"/>
+<a href="https://github.com/DevKatti7560">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
 <h1 align="center">Hi 👋, I'm Devaraja Katti</h1>
-<h3 align="center">AI & ML Engineering Student | Full Stack Developer | Machine Learning Enthusiast | MERN Stack | Python | Open Source Learner</h3>
+
+<h3 align="center">
+AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineering+Student;Full+Stack+MERN+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies;Open+to+Internship+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineering+Student;Full+Stack+MERN+Developer;Machine+Learning+Enthusiast;Building+Real-World+Projects;Open+to+Internship+Opportunities"/>
 </p>
 
 ---
@@ -29,6 +44,18 @@
 <img src="https://img.shields.io/github/stars/DevKatti7560?affiliations=OWNER&style=for-the-badge"/>
 
 </p>
+---
+
+## 🎯 Current Focus
+
+- 🚀 Building Full Stack MERN Applications
+- 🤖 Exploring Machine Learning & NLP
+- 📊 Learning Data Analytics & Power BI
+- ☁️ Learning Cloud & MLOps
+- 💼 Preparing for Software & AI/ML Internship Opportunities
+---
+---
+
 ## 🚀 About Me
 
 🎓 **B.E. Artificial Intelligence & Machine Learning** at **Dayananda Sagar College of Engineering**
@@ -89,7 +116,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏢 Enterprise CRM System (MERN Stack)
+### 🏢 [Enterprise CRM System](https://github.com/DevKatti7560/Enterprise-CRM-System)
 - 🔐 JWT Authentication & Role-Based Access Control
 - 📊 Dashboard Analytics & Reports
 - 👥 Lead, Customer & Task Management
@@ -134,8 +161,6 @@
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Statistics
-
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevKatti7560&show_icons=true&theme=github_dark&hide_border=true"/>
@@ -172,7 +197,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/devaraja-katti-58136a2a1/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -188,6 +213,13 @@
 
 <p align="center">
 
-⭐ If you like my work, consider giving a star to my repositories.
+---
 
+<h3 align="center">💙 Thanks for visiting my GitHub Profile!</h3>
+
+<p align="center">
+If you enjoy my projects, consider ⭐ starring the repositories and connecting with me on LinkedIn.
 </p>
+## 💭 Favorite Quote
+
+> "The best way to predict the future is to build it."
