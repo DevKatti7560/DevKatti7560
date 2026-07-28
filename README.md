@@ -67,18 +67,35 @@
 
 ## 🚀 Featured Projects
 
-### 🏢 Enterprise CRM System
-> MERN Stack CRM featuring JWT Authentication, Role-Based Access Control, Dashboard Analytics, Lead Management, Customer Management, Reports, Notifications and Responsive UI.
+### 🏢 Enterprise CRM System (MERN Stack)
+- 🔐 JWT Authentication & Role-Based Access Control
+- 📊 Dashboard Analytics & Reports
+- 👥 Lead, Customer & Task Management
+- 🌐 **Tech:** React, Node.js, Express.js, MongoDB
+
+---
 
 ### 🚀 Innovation & Entrepreneurship Activity Dashboard
-> MERN Stack application for managing innovation activities, startup ideas, events, authentication, dashboards and reporting.
+- 💡 Startup Ideas & Innovation Activity Management
+- 📅 Event Management & Activity Tracking
+- 👤 Authentication & CRUD Operations
+- 🌐 **Tech:** React, Node.js, Express.js, MongoDB
+
+---
 
 ### 📰 Fake News Detection System
-> Machine Learning & NLP based application for detecting fake news using text preprocessing and classification algorithms.
+- 🤖 Machine Learning & NLP
+- 📝 TF-IDF & Text Classification
+- 📊 News Authenticity Prediction
+- 🌐 **Tech:** Python, Scikit-learn, NLP
+
+---
 
 ### 🏥 Smart Gait Classification System
-> AI-powered healthcare application using LSTM, OpenCV and IoT sensors for gait pattern classification.
-
+- 🧠 LSTM-Based Human Gait Classification
+- 📷 OpenCV + MPU6050 Sensor Integration
+- ❤️ Healthcare AI & Rehabilitation Support
+- 🌐 **Tech:** Python, OpenCV, LSTM
 ---
 
 ## 🏆 Certifications
