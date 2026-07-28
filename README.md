@@ -30,36 +30,39 @@
 
 ## 💻 Tech Stack
 
-### Programming Languages
-
+### 👨‍💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,sql"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
 </p>
 
-### Frontend
-
+### 🌐 Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
-### Backend
-
+### ⚙️ Backend Development
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
-
+### 🗄️ Database
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### Tools
-
+### 🤖 AI / Machine Learning
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCV-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LSTM-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-purple?style=for-the-badge" />
 </p>
 
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 ---
 
 ## 🚀 Featured Projects
