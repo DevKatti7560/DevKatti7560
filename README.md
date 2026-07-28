@@ -1,3 +1,17 @@
+<p align="center">
+
+<img src="https://img.shields.io/badge/MERN-Full%20Stack-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"/>
+
+</p>
+
 <h1 align="center">Hi 👋, I'm Devaraja Katti</h1>
 <h3 align="center">AI & ML Engineering Student | Full Stack Developer | Machine Learning Enthusiast | MERN Stack | Python | Open Source Learner</h3>
 
