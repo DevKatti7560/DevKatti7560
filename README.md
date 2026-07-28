@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devaraja Katti</h1>
-<h3 align="center">AI & ML Engineering Student | Full Stack Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">AI & ML Engineering Student | Full Stack Developer | Machine Learning Enthusiast | MERN Stack | Python | Open Source Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineering+Student;Full+Stack+MERN+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies;Open+to+Internship+Opportunities" />
