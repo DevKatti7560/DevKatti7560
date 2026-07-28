@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-🎓 **B.E. Artificial Intelligence & Machine Learning** (7th Semester) at **Dayananda Sagar College of Engineering**
+🎓 **B.E. Artificial Intelligence & Machine Learning** at **Dayananda Sagar College of Engineering**
 
 💡 Passionate about building **AI-powered solutions** and **full-stack web applications** that solve real-world problems.
 
