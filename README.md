@@ -9,13 +9,22 @@
 
 ## 🚀 About Me
 
-- 🎓 7th Semester B.E. Artificial Intelligence & Machine Learning Student
-- 🏫 Dayananda Sagar College of Engineering
-- 📈 CGPA: **9.08**
-- 🌱 Currently learning **Advanced MERN Stack, Machine Learning & Data Analytics**
-- 💻 Passionate about solving real-world problems through AI and Full Stack Development
-- 🤝 Open to Internship Opportunities
-- 📫 Email: **devarajakattigumagera@gmail.com**
+🎓 **B.E. Artificial Intelligence & Machine Learning** (7th Semester) at **Dayananda Sagar College of Engineering**
+
+💡 Passionate about building **AI-powered solutions** and **full-stack web applications** that solve real-world problems.
+
+🌱 Currently exploring:
+- Machine Learning & Deep Learning
+- MERN Stack Development
+- Data Analytics & Visualization
+- MLOps & Cloud Technologies
+
+🎯 Career Goal:
+> To contribute as an AI/ML Engineer or Full Stack Developer by building scalable, impactful, and innovative software solutions.
+
+📫 Reach me at: **devarajakattigumagera@gmail.com**
+
+⚡ Fun Fact: *I enjoy turning ideas into practical software through code and continuous learning.*
 
 ---
 
