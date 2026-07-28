@@ -6,7 +6,15 @@
 </p>
 
 ---
+<p align="center">
 
+<img src="https://komarev.com/ghpvc/?username=DevKatti7560&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/DevKatti7560?label=Followers&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/DevKatti7560?affiliations=OWNER&style=for-the-badge"/>
+
+</p>
 ## 🚀 About Me
 
 🎓 **B.E. Artificial Intelligence & Machine Learning** at **Dayananda Sagar College of Engineering**
