@@ -118,6 +118,8 @@
 | 🌱 Energy Literacy Training | Energy Swaraj Foundation |
 ---
 
+## 📊 GitHub Analytics
+
 ## 📊 GitHub Statistics
 
 <p align="center">
