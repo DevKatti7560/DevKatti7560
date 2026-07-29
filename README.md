@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Devaraja Katti</h1>
 
 <h3 align="center">
@@ -10,6 +9,7 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 </p>
 
 ---
+
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=DevKatti7560&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
@@ -19,6 +19,7 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 <img src="https://img.shields.io/github/stars/DevKatti7560?affiliations=OWNER&style=for-the-badge"/>
 
 </p>
+
 ---
 
 ## 🎯 Current Focus
@@ -28,70 +29,90 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 - 📊 Learning Data Analytics & Power BI
 - ☁️ Learning Cloud & MLOps
 - 💼 Preparing for Software & AI/ML Internship Opportunities
----
+
 ---
 
 ## 🚀 About Me
 
-🎓 **B.E. Artificial Intelligence & Machine Learning** at **Dayananda Sagar College of Engineering**
+🎓 **B.E. Artificial Intelligence & Machine Learning**  
+**Dayananda Sagar College of Engineering**
 
-💡 Passionate about building **AI-powered solutions** and **full-stack web applications** that solve real-world problems.
+💡 Passionate about building **AI-powered solutions** and **Full Stack Web Applications** that solve real-world problems.
 
-🌱 Currently exploring:
+### 🌱 Currently Exploring
+
 - Machine Learning & Deep Learning
 - MERN Stack Development
 - Data Analytics & Visualization
 - MLOps & Cloud Technologies
 
-🎯 Career Goal:
+### 🎯 Career Goal
+
 > To contribute as an AI/ML Engineer or Full Stack Developer by building scalable, impactful, and innovative software solutions.
 
-📫 Reach me at: **devarajakattigumagera@gmail.com**
+📫 **Email:** **devarajakattigumagera@gmail.com**
 
-⚡ Fun Fact: *I enjoy turning ideas into practical software through code and continuous learning.*
+⚡ **Fun Fact:** *I enjoy turning ideas into practical software through code and continuous learning.*
 
 ---
 
 ## 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
 </p>
 
 ### 🌐 Frontend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
+<img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
 ### ⚙️ Backend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Database
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### 🤖 AI / Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenCV-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LSTM-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-purple?style=for-the-badge" />
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NLP-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv"/>
+
+<img src="https://img.shields.io/badge/LSTM-E91E63?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-7B1FA2?style=for-the-badge"/>
+
 </p>
 
 ### 🛠️ Tools & Platforms
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
+
 ---
 
 ## 🚀 Featured Projects
 
-### 🏢 [Enterprise CRM System](https://github.com/DevKatti7560/Enterprise-CRM-System)
+### 🏢 Enterprise CRM System
+
+🔗 **Repository:**  
+https://github.com/DevKatti7560/Enterprise-CRM-System
+
 - 🔐 JWT Authentication & Role-Based Access Control
 - 📊 Dashboard Analytics & Reports
 - 👥 Lead, Customer & Task Management
@@ -100,6 +121,7 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 ---
 
 ### 🚀 Innovation & Entrepreneurship Activity Dashboard
+
 - 💡 Startup Ideas & Innovation Activity Management
 - 📅 Event Management & Activity Tracking
 - 👤 Authentication & CRUD Operations
@@ -108,6 +130,7 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 ---
 
 ### 📰 Fake News Detection System
+
 - 🤖 Machine Learning & NLP
 - 📝 TF-IDF & Text Classification
 - 📊 News Authenticity Prediction
@@ -116,10 +139,12 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 ---
 
 ### 🏥 Smart Gait Classification System
+
 - 🧠 LSTM-Based Human Gait Classification
 - 📷 OpenCV + MPU6050 Sensor Integration
 - ❤️ Healthcare AI & Rehabilitation Support
 - 🌐 **Tech:** Python, OpenCV, LSTM
+
 ---
 
 ## 🏆 Certifications
@@ -132,15 +157,16 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 | 🐍 Learn Machine Learning with Python A to Z | Udemy |
 | 📊 R Programming | Spoken Tutorial – IIT Bombay |
 | 🌱 Energy Literacy Training | Energy Swaraj Foundation |
+
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevKatti7560&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevKatti7560&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKatti7560&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKatti7560&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -149,7 +175,7 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=DevKatti7560&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=DevKatti7560&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -157,7 +183,7 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 ## 🏅 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DevKatti7560&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DevKatti7560&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -165,7 +191,15 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevKatti7560&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevKatti7560&theme=tokyo-night"/>
+</p>
+
+---
+
+## 📊 GitHub Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevKatti7560&theme=tokyonight"/>
 </p>
 
 ---
@@ -174,27 +208,34 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/devaraja-katti-58136a2a1/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
 <a href="mailto:devarajakattigumagera@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/devaraja-katti-58136a2a1/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DevKatti7560">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
-
----
-
-<h3 align="center">💙 Thanks for visiting my GitHub Profile!</h3>
-
-<p align="center">
-If you enjoy my projects, consider ⭐ starring the repositories and connecting with me on LinkedIn.
-</p>
 ## 💭 Favorite Quote
 
-> "The best way to predict the future is to build it."
+> *"The best way to predict the future is to build it."*
+
+---
+
+<h3 align="center">💙 Thanks for Visiting My GitHub Profile!</h3>
+
+<p align="center">
+If you enjoy my projects, consider ⭐ starring my repositories and connecting with me on LinkedIn.
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:2563EB,100:1E40AF&height=120&section=footer"/>
+</p>
