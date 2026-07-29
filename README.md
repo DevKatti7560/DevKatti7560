@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/DevKatti7560/DevKatti7560/main/banner.png" width="100%" alt="Devaraja Katti Banner"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Devaraja Katti</h1>
 
 <h3 align="center">
@@ -5,84 +9,78 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineering+Student;Full+Stack+MERN+Developer;Machine+Learning+Enthusiast;Building+Real-World+Projects;Open+to+Internship+Opportunities"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=AI+%26+ML+Engineering+Student;Full+Stack+MERN+Developer;Machine+Learning+Enthusiast;Building+Real-World+Projects;Open+to+Internship+Opportunities"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=1&pause=100000&color=00D4FF&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub+Profile!"/>
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=DevKatti7560&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/DevKatti7560?label=Followers&style=for-the-badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=DevKatti7560&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/github/followers/DevKatti7560?style=for-the-badge"/>
 <img src="https://img.shields.io/github/stars/DevKatti7560?affiliations=OWNER&style=for-the-badge"/>
-
 </p>
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
-- 🚀 Building Full Stack MERN Applications
-- 🤖 Exploring Machine Learning & NLP
-- 📊 Learning Data Analytics & Power BI
-- ☁️ Learning Cloud & MLOps
-- 💼 Preparing for Software & AI/ML Internship Opportunities
+- ✅ Building Full Stack MERN Applications
+- ✅ Exploring Machine Learning & NLP
+- ✅ Learning Data Analytics & Power BI
+- ✅ Learning Cloud & MLOps
+- 🎯 Preparing for Software & AI/ML Internship Opportunities
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 **B.E. Artificial Intelligence & Machine Learning**  
 **Dayananda Sagar College of Engineering**
 
-💡 Passionate about building **AI-powered solutions** and **Full Stack Web Applications** that solve real-world problems.
+💡 Passionate about building AI-powered solutions and scalable Full Stack MERN applications.
 
-### 🌱 Currently Exploring
+## 🚀 Highlights
 
-- Machine Learning & Deep Learning
-- MERN Stack Development
-- Data Analytics & Visualization
-- MLOps & Cloud Technologies
+- 💻 Full Stack MERN Developer
+- 🤖 Machine Learning & NLP Enthusiast
+- 📊 Data Analytics Learner
+- ☁️ Exploring Cloud & MLOps
 
-### 🎯 Career Goal
-
-> To contribute as an AI/ML Engineer or Full Stack Developer by building scalable, impactful, and innovative software solutions.
-
-📫 **Email:** **devarajakattigumagera@gmail.com**
-
-⚡ **Fun Fact:** *I enjoy turning ideas into practical software through code and continuous learning.*
+📧 **Email:** **devarajakattigumagera@gmail.com**
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,sql"/>
 </p>
 
-### 🌐 Frontend Development
+### 🌐 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb"/>
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 AI / ML
 
 <p align="center">
 
@@ -98,20 +96,17 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 
 </p>
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏢 Enterprise CRM System
-
-🔗 **Repository:**  
-https://github.com/DevKatti7560/Enterprise-CRM-System
+### 🏢 [Enterprise CRM System](https://github.com/DevKatti7560/Enterprise-CRM-System)
 
 - 🔐 JWT Authentication & Role-Based Access Control
 - 📊 Dashboard Analytics & Reports
@@ -120,7 +115,7 @@ https://github.com/DevKatti7560/Enterprise-CRM-System
 
 ---
 
-### 🚀 Innovation & Entrepreneurship Activity Dashboard
+### 🚀 [Innovation & Entrepreneurship Activity Dashboard](https://github.com/DevKatti7560/innovation-and-entrepreneurship-activity-dashboard)
 
 - 💡 Startup Ideas & Innovation Activity Management
 - 📅 Event Management & Activity Tracking
@@ -129,7 +124,7 @@ https://github.com/DevKatti7560/Enterprise-CRM-System
 
 ---
 
-### 📰 Fake News Detection System
+### 📰 [Fake News Detection System](https://github.com/DevKatti7560/Fake-News-Detection-Using-ML)
 
 - 🤖 Machine Learning & NLP
 - 📝 TF-IDF & Text Classification
@@ -147,32 +142,27 @@ https://github.com/DevKatti7560/Enterprise-CRM-System
 
 ---
 
-## 🏆 Certifications
+# 🏆 Certifications
 
-| Certification | Organization |
-|---------------|--------------|
-| 🥇 NPTEL Elite – Exploratory Data Analysis for Data Science with R | IIT Kanpur (NPTEL) |
-| 🤖 Generative AI with AWS | Analytics Vidhya |
-| ☁ Azure Cloud, AI & Serverless Bootcamp | SwipeGen |
-| 🐍 Learn Machine Learning with Python A to Z | Udemy |
-| 📊 R Programming | Spoken Tutorial – IIT Bombay |
-| 🌱 Energy Literacy Training | Energy Swaraj Foundation |
+- 🥇 NPTEL Elite – Exploratory Data Analysis with R
+- 🤖 Generative AI with AWS
+- ☁️ Azure Cloud, AI & Serverless Bootcamp
+- 🐍 Learn Machine Learning with Python A to Z
+- 📊 R Programming
+- 🌱 Energy Literacy Training
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevKatti7560&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKatti7560&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=DevKatti7560&theme=tokyonight&hide_border=true"/>
@@ -180,7 +170,7 @@ https://github.com/DevKatti7560/Enterprise-CRM-System
 
 ---
 
-## 🏅 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=DevKatti7560&theme=tokyonight&no-frame=true&row=1&column=6"/>
@@ -188,7 +178,7 @@ https://github.com/DevKatti7560/Enterprise-CRM-System
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevKatti7560&theme=tokyo-night"/>
@@ -196,7 +186,7 @@ https://github.com/DevKatti7560/Enterprise-CRM-System
 
 ---
 
-## 📊 GitHub Summary
+# 📊 GitHub Summary
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevKatti7560&theme=tokyonight"/>
@@ -204,7 +194,7 @@ https://github.com/DevKatti7560/Enterprise-CRM-System
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -224,7 +214,7 @@ https://github.com/DevKatti7560/Enterprise-CRM-System
 
 ---
 
-## 💭 Favorite Quote
+# 💭 Favorite Quote
 
 > *"The best way to predict the future is to build it."*
 
@@ -233,7 +223,7 @@ https://github.com/DevKatti7560/Enterprise-CRM-System
 <h3 align="center">💙 Thanks for Visiting My GitHub Profile!</h3>
 
 <p align="center">
-If you enjoy my projects, consider ⭐ starring my repositories and connecting with me on LinkedIn.
+If you enjoy my work, consider ⭐ starring my repositories and connecting with me on LinkedIn.
 </p>
 
 <p align="center">
