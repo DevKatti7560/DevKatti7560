@@ -124,12 +124,30 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 
 ---
 
-### 📰 [Fake News Detection System](https://github.com/DevKatti7560/Fake-News-Detection-Using-ML)
+### 📰 [Fake News Detection Using Machine Learning](https://github.com/DevKatti7560/Fake-News-Detection-Using-ML)
 
-- 🤖 Machine Learning & NLP
-- 📝 TF-IDF & Text Classification
+- 🤖 Fake News Classification using Machine Learning & NLP
+- 📝 TF-IDF Feature Extraction & Text Preprocessing
 - 📊 News Authenticity Prediction
 - 🌐 **Tech:** Python, Scikit-learn, NLP
+
+---
+
+### 📧 [AI Email Reply Assistant](https://github.com/DevKatti7560/AI-Email-Reply-Assistant)
+
+- 🤖 AI-powered Smart Email Reply Generator
+- ✉️ Generates professional email responses instantly
+- ⚡ Clean and responsive user interface
+- 🌐 **Tech:** React, Spring Boot, Gemini API
+
+---
+
+### 🎥 [Face Recognition Attendance System](https://github.com/DevKatti7560/face-recognition-attendance-system)
+
+- 🎯 Real-time Face Detection & Recognition
+- 📸 Automated Attendance Management
+- 📊 Attendance Records Generation
+- 🌐 **Tech:** Python, OpenCV, Face Recognition
 
 ---
 
@@ -139,7 +157,6 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 - 📷 OpenCV + MPU6050 Sensor Integration
 - ❤️ Healthcare AI & Rehabilitation Support
 - 🌐 **Tech:** Python, OpenCV, LSTM
-
 ---
 
 # 🏆 Certifications
