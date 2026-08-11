@@ -2,6 +2,8 @@
 <img src="https://raw.githubusercontent.com/DevKatti7560/DevKatti7560/main/banner.png" width="100%" alt="Devaraja Katti Banner"/>
 </p>
 
+<br>
+
 <h1 align="center">Hi 👋, I'm Devaraja Katti</h1>
 
 <h3 align="center">
@@ -19,9 +21,13 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=DevKatti7560&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
-<img src="https://img.shields.io/github/followers/DevKatti7560?style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=DevKatti7560&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/DevKatti7560?label=Followers&style=for-the-badge"/>
+
 <img src="https://img.shields.io/github/stars/DevKatti7560?affiliations=OWNER&style=for-the-badge"/>
+
 </p>
 
 ---
@@ -41,7 +47,7 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 🎓 **B.E. Artificial Intelligence & Machine Learning**  
 **Dayananda Sagar College of Engineering**
 
-💡 Passionate about building AI-powered solutions and scalable Full Stack MERN applications.
+💡 Passionate about building **AI-powered solutions** and **Full Stack Applications** that solve real-world problems.
 
 ## 🚀 Highlights
 
@@ -49,38 +55,47 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 - 🤖 Machine Learning & NLP Enthusiast
 - 📊 Data Analytics Learner
 - ☁️ Exploring Cloud & MLOps
+- 🚀 Building Real-World Software Projects
 
-📧 **Email:** **devarajakattigumagera@gmail.com**
+📫 **Email:** **devarajakattigumagera@gmail.com**
+
+⚡ **Fun Fact:** *I enjoy turning ideas into practical software through code and continuous learning.*
 
 ---
 
 # 💻 Tech Stack
 
-### 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,js,sql"/>
 </p>
 
-### 🌐 Frontend
+## 🌐 Frontend Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,html,css"/>
 </p>
 
-### ⚙️ Backend
+## ⚙️ Backend Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-### 🗄️ Database
+## 🗄️ Database
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 </p>
 
-### 🤖 AI / ML
+## 🐘 Additional Database & ORM
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,prisma"/>
+</p>
+
+## 🤖 AI / Machine Learning
 
 <p align="center">
 
@@ -96,85 +111,123 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 
 </p>
 
-### 🛠️ Tools
+## 🛠️ Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🏢 [Enterprise CRM System](https://github.com/DevKatti7560/Enterprise-CRM-System)
+## 🏢 [Mini ERP & CRM](https://github.com/DevKatti7560/mini-erp-crm)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://mini-erp-crm.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevKatti7560/mini-erp-crm)
+
+- 🔐 JWT Authentication & Role-Based Access Control
+- 👥 Customer & CRM Management
+- 📦 Product & Inventory Management
+- 📊 Stock Movement Tracking & Low Stock Monitoring
+- 🧾 Sales Challan Creation & Management
+- 📈 Dashboard Analytics
+- ☁️ Deployed with Vercel, Render & PostgreSQL
+- 🌐 **Tech:** React, Vite, Node.js, Express.js, Prisma, PostgreSQL, JWT
+
+---
+
+## 🏢 [Enterprise CRM System](https://github.com/DevKatti7560/Enterprise-CRM-System)
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevKatti7560/Enterprise-CRM-System)
 
 - 🔐 JWT Authentication & Role-Based Access Control
 - 📊 Dashboard Analytics & Reports
 - 👥 Lead, Customer & Task Management
+- 🔔 Notifications & Activity Tracking
+- 📅 Calendar & Reporting Features
 - 🌐 **Tech:** React, Node.js, Express.js, MongoDB
 
 ---
 
-### 🚀 [Innovation & Entrepreneurship Activity Dashboard](https://github.com/DevKatti7560/innovation-and-entrepreneurship-activity-dashboard)
+## 📧 [AI Email Reply Assistant](https://github.com/DevKatti7560/AI-Email-Reply-Assistant)
 
-- 💡 Startup Ideas & Innovation Activity Management
-- 📅 Event Management & Activity Tracking
-- 👤 Authentication & CRUD Operations
-- 🌐 **Tech:** React, Node.js, Express.js, MongoDB
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevKatti7560/AI-Email-Reply-Assistant)
 
----
-
-### 📰 [Fake News Detection Using Machine Learning](https://github.com/DevKatti7560/Fake-News-Detection-Using-ML)
-
-- 🤖 Fake News Classification using Machine Learning & NLP
-- 📝 TF-IDF Feature Extraction & Text Preprocessing
-- 📊 News Authenticity Prediction
-- 🌐 **Tech:** Python, Scikit-learn, NLP
+- 🤖 AI-Powered Email Reply Generation
+- ✉️ Generates professional responses from email content
+- ⚡ Intelligent assistance for faster email communication
+- 🌐 **Tech:** React, Flask, AI/NLP
 
 ---
 
-### 📧 [AI Email Reply Assistant](https://github.com/DevKatti7560/AI-Email-Reply-Assistant)
+## 📰 [Fake News Detection Using Machine Learning](https://github.com/DevKatti7560/Fake-News-Detection-Using-ML)
 
-- 🤖 AI-powered Smart Email Reply Generator
-- ✉️ Generates professional email responses instantly
-- ⚡ Clean and responsive user interface
-- 🌐 **Tech:** React, Spring Boot, Gemini API
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevKatti7560/Fake-News-Detection-Using-ML)
+
+- 🤖 Machine Learning & Natural Language Processing
+- 📝 TF-IDF Feature Extraction & Text Classification
+- 📊 Fake & Real News Classification
+- 🔍 Text Preprocessing & Feature Engineering
+- 🌐 **Tech:** Python, Scikit-learn, NLP, TF-IDF
 
 ---
 
-### 🎥 [Face Recognition Attendance System](https://github.com/DevKatti7560/face-recognition-attendance-system)
+## 🎥 [Face Recognition Attendance System](https://github.com/DevKatti7560/face-recognition-attendance-system)
 
-- 🎯 Real-time Face Detection & Recognition
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevKatti7560/face-recognition-attendance-system)
+
+- 🎯 Real-Time Face Detection & Recognition
 - 📸 Automated Attendance Management
-- 📊 Attendance Records Generation
+- 🧑‍💻 Computer Vision-Based Identification
+- 📊 Attendance Record Management
 - 🌐 **Tech:** Python, OpenCV, Face Recognition
 
 ---
 
-### 🏥 Smart Gait Classification System
+## 🚀 [Innovation & Entrepreneurship Activity Dashboard](https://github.com/DevKatti7560/innovation-and-entrepreneurship-activity-dashboard)
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevKatti7560/innovation-and-entrepreneurship-activity-dashboard)
+
+- 💡 Startup Ideas & Innovation Activity Management
+- 📅 Event Management & Activity Tracking
+- 👤 Authentication & CRUD Operations
+- 📊 Dashboard & Activity Analytics
+- 🌐 **Tech:** React, Node.js, Express.js, MongoDB
+
+---
+
+## 🏥 Smart Gait Classification System
 
 - 🧠 LSTM-Based Human Gait Classification
 - 📷 OpenCV + MPU6050 Sensor Integration
+- 🚶 Normal & Abnormal Gait Classification
 - ❤️ Healthcare AI & Rehabilitation Support
-- 🌐 **Tech:** Python, OpenCV, LSTM
+- 🌐 **Tech:** Python, OpenCV, LSTM, MPU6050
+
 ---
 
 # 🏆 Certifications
 
-- 🥇 NPTEL Elite – Exploratory Data Analysis with R
-- 🤖 Generative AI with AWS
-- ☁️ Azure Cloud, AI & Serverless Bootcamp
-- 🐍 Learn Machine Learning with Python A to Z
-- 📊 R Programming
-- 🌱 Energy Literacy Training
+| Certification | Organization |
+|---------------|--------------|
+| 🥇 NPTEL Elite – Exploratory Data Analysis for Data Science with R | IIT Kanpur (NPTEL) |
+| 🤖 Generative AI with AWS | Analytics Vidhya |
+| ☁️ Azure Cloud, AI & Serverless Bootcamp | SwipeGen |
+| 🐍 Learn Machine Learning with Python A to Z | Udemy |
+| 📊 R Programming | Spoken Tutorial – IIT Bombay |
+| 🌱 Energy Literacy Training | Energy Swaraj Foundation |
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevKatti7560&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKatti7560&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -187,7 +240,7 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏅 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=DevKatti7560&theme=tokyonight&no-frame=true&row=1&column=6"/>
