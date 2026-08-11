@@ -123,7 +123,7 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 
 ## 🏢 [Mini ERP & CRM](https://github.com/DevKatti7560/mini-erp-crm)
 
-[![Live Demo]([https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=vercel&logoColor=white](https://mini-erp-crm-chi-green.vercel.app/))](https://mini-erp-crm.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://mini-erp-crm-chi-green.vercel.app/)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevKatti7560/mini-erp-crm)
 
 - 🔐 JWT Authentication & Role-Based Access Control
