@@ -140,6 +140,7 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 ## 🏢 [Enterprise CRM System](https://github.com/DevKatti7560/Enterprise-CRM-System)
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevKatti7560/Enterprise-CRM-System)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://enterprise-crm-system-eight.vercel.app/)
 
 - 🔐 JWT Authentication & Role-Based Access Control
 - 📊 Dashboard Analytics & Reports
