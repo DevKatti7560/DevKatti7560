@@ -150,17 +150,6 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 
 ---
 
-## 📧 [AI Email Reply Assistant](https://github.com/DevKatti7560/AI-Email-Reply-Assistant)
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevKatti7560/AI-Email-Reply-Assistant)
-
-- 🤖 AI-Powered Email Reply Generation
-- ✉️ Generates professional responses from email content
-- ⚡ Intelligent assistance for faster email communication
-- 🌐 **Tech:** React, Flask, AI/NLP
-
----
-
 ## 📰 [Fake News Detection Using Machine Learning](https://github.com/DevKatti7560/Fake-News-Detection-Using-ML)
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevKatti7560/Fake-News-Detection-Using-ML)
@@ -195,6 +184,16 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 - 👤 Authentication & CRUD Operations
 - 📊 Dashboard & Activity Analytics
 - 🌐 **Tech:** React, Node.js, Express.js, MongoDB
+
+---
+## 📧 [AI Email Reply Assistant](https://github.com/DevKatti7560/AI-Email-Reply-Assistant)
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevKatti7560/AI-Email-Reply-Assistant)
+
+- 🤖 AI-Powered Email Reply Generation
+- ✉️ Generates professional responses from email content
+- ⚡ Intelligent assistance for faster email communication
+- 🌐 **Tech:** React, Flask, AI/NLP
 
 ---
 
