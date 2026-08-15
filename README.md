@@ -185,9 +185,10 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 
 ---
 
-## 🚀 [Innovation & Entrepreneurship Activity Dashboard](https://github.com/DevKatti7560/innovation-and-entrepreneurship-activity-dashboard)
+## 🚀 [Innovation & Entrepreneurship Dashboard](https://github.com/DevKatti7560/innovation-entrepreneurship-dashboard)
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevKatti7560/innovation-and-entrepreneurship-activity-dashboard)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevKatti7560/innovation-entrepreneurship-dashboard)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://innovation-entrepreneurship-dashboa.vercel.app/login)
 
 - 💡 Startup Ideas & Innovation Activity Management
 - 📅 Event Management & Activity Tracking
