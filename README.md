@@ -212,6 +212,7 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 
 | Certification | Organization |
 |---------------|--------------|
+| 📊 Data Analytics Essentials | Cisco Networking Academy |
 | 🥇 NPTEL Elite – Exploratory Data Analysis for Data Science with R | IIT Kanpur (NPTEL) |
 | 🤖 Generative AI with AWS | Analytics Vidhya |
 | ☁️ Azure Cloud, AI & Serverless Bootcamp | SwipeGen |
