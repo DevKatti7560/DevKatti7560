@@ -57,7 +57,7 @@ AI & ML Engineering Student • Full Stack MERN Developer • Machine Learning E
 - ☁️ Exploring Cloud & MLOps
 - 🚀 Building Real-World Software Projects
 
-📫 **Email:** **devarajakattigumagera@gmail.com**
+📫 **Email:** **devarajakatti05@gmail.com**
 
 ⚡ **Fun Fact:** *I enjoy turning ideas into practical software through code and continuous learning.*
 
